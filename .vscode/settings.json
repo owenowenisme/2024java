@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "hw1/src",
-        "hw2/src"
+        "hw2/src",
+        "hw3/src",
+        "hw4/src"
     ]
 }
